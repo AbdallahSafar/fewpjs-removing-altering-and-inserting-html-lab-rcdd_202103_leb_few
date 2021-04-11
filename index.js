@@ -2,5 +2,4 @@
 document.querySelector("main#main").remove();
 let newHeader = document.createElement("h1");
 newHeader.setAttribute("id","victory");
-/*header.innerHTML = 'Abdallah is the champion';
-document.body.appendChild(header);*/
+newHeader.innerHTML = 'Abdallah is the champion';
